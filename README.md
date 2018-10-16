@@ -12,4 +12,6 @@ ___
 
 ### Extra mile!
 - [ ] Soporte para busquedas en cualquier pais donde este Mercado Libre
-- [ ] Busqueda por parametros pasados desde la consola!
+- [ ] [Busqueda por parametros pasados desde la consola!](https://nodejs.org/docs/latest/api/process.html#process_process_argv)
+
+
