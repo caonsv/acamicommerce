@@ -1,3 +1,4 @@
 // Importá productsFetcher para que este script no se rompa!
+const fetchProducts = require('./src/productsFetcher')
 
-productsFetcher('ipod');
+fetchProducts('ipod');
